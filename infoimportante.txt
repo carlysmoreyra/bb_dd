@@ -1,0 +1,6 @@
+1ero from <- origen
+2do where <- filtro por registro
+3ero group by <- agrupa
+4to funcion agregada <- calcula
+5to having <- filtra por funcion agregada
+6to select <- muestra
